@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "owner": "hautvfami",
-  "generatedAt": "2026-10-15T06:31:53.037937Z",
-  "totalBooks": 6,
+  "generatedAt": "2026-10-15T06:32:27.275616Z",
+  "totalBooks": 7,
   "books": [
     {
       "id": "60579386-c7e5-400f-a6db-5e1b46aa8c0f",
@@ -80,6 +80,28 @@
       ],
       "coverImage": "covers/e6a69518-17fa-46be-8076-6ca446255d76.jpg",
       "lastReadAt": "2026-10-10T12:33:07.000"
+    },
+    {
+      "id": "fd103ea7-e056-4c2e-a17a-389a36f884e7",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "publisher": "Standard Ebooks",
+      "languageCode": "en-GB",
+      "description": "A tragic scientist creates a monster in his laboratory.",
+      "publishedAt": "2015-05-12T07:00:00.000",
+      "chapterCount": 39,
+      "readingProgress": 0.0,
+      "tags": [
+        "scienceFiction",
+        "Horror tales",
+        "Gothic fiction (Literary genre)",
+        "Scientists -- Fiction",
+        "Monsters -- Fiction",
+        "Frankenstein",
+        "Victor (Fictitious character) -- Fiction",
+        "Frankenstein's monster (Fictitious character) -- Fiction"
+      ],
+      "coverImage": "covers/fd103ea7-e056-4c2e-a17a-389a36f884e7.jpg"
     },
     {
       "id": "bf5828da-7249-4c10-a8db-b81cc5cb7436",
