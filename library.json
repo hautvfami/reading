@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "owner": "hautvfami",
-  "generatedAt": "2026-10-15T06:30:56.845714Z",
-  "totalBooks": 5,
+  "generatedAt": "2026-10-15T06:31:53.037937Z",
+  "totalBooks": 6,
   "books": [
     {
       "id": "60579386-c7e5-400f-a6db-5e1b46aa8c0f",
@@ -18,6 +18,22 @@
         "scienceFiction"
       ],
       "coverImage": "covers/60579386-c7e5-400f-a6db-5e1b46aa8c0f.jpg"
+    },
+    {
+      "id": "35037951-32f1-40ff-9149-da0197cf9ce1",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "publisher": "Standard Ebooks",
+      "languageCode": "en-GB",
+      "description": "Inflated by his own ambition, an ex-student murders a pawnbroker, then faces the inevitable consequences.",
+      "publishedAt": "2017-08-26T07:00:00.000",
+      "chapterCount": 55,
+      "readingProgress": 0.0072,
+      "tags": [
+        "fiction"
+      ],
+      "coverImage": "covers/35037951-32f1-40ff-9149-da0197cf9ce1.jpg",
+      "lastReadAt": "2026-10-07T00:35:50.000"
     },
     {
       "id": "dd0b63a8-7a92-43b1-b982-1df23022a82a",
