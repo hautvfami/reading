@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "owner": "hautvfami",
-  "generatedAt": "2026-10-15T13:58:30.572819Z",
+  "generatedAt": "2026-10-15T13:59:28.212233Z",
   "totalBooks": 12,
   "books": [
     {
@@ -157,11 +157,12 @@
       "description": "Trí tuệ nhân tạo giúp bạn chọn những cuốn sách bạn mua, những bộ phim bạn xem, và thậm chí những người bạn hẹn hò. Nó có trong điện thoại thông minh của bạn và tới đây sẽ lái chiếc xe của bạn. Nó thực hiện hầu hết các giao dịch trên Wall Street, và kiểm soát cơ sở hạ tầng điện, nước và giao thông. Nhưng trí tuệ nhân tạo cũng có thể đe dọa sự tồn tại của con người. Chỉ trong một thập kỷ, AI có thể đạt ngang ngửa và sau đó vượt qua trí thông minh của con người. Các công ty và cơ quan chính phủ đang rót hàng tỷ đô-la để thu được một AI với trí thông minh ở cấp độ con người. Một khi AI đã phát triển đến mức này, các nhà khoa học lập luận rằng, nó sẽ có những động lực sống giống như con người. Chúng ta có thể sẽ buộc phải cạnh tranh với một kẻ thù ngoan cường hơn, mạnh mẽ hơn và khác biệt hơn chúng ta tưởng tượng. Thông qua việc phỏng vấn với những người có tầm nhìn xa về công nghệ, các cơ quan giám sát công nghiệp, và những hệ thống AI, cuốn sách Phát minh cuối cùng khám phá những nguy cơ của việc theo đuổi AI cao cấp. Cho đến nay, trí thông minh của con người không có đối thủ. Liệu chúng ta có thể cùng tồn tại với những thứ mà trí tuệ của chúng ta trở nên nhỏ bé hơn hẳn? Và liệu chúng sẽ cho phép chúng ta cùng tồn tại?",
       "publishedAt": "2020-06-26T07:00:00.000",
       "chapterCount": 19,
-      "readingProgress": 0.0,
+      "readingProgress": 0.0060931899641577065,
       "tags": [
         "history"
       ],
-      "coverImage": "covers/eabc86f3-9c63-42e5-9dff-4d9373536ee5.jpg"
+      "coverImage": "covers/eabc86f3-9c63-42e5-9dff-4d9373536ee5.jpg",
+      "lastReadAt": "2026-10-15T20:58:47.000"
     },
     {
       "id": "bf5828da-7249-4c10-a8db-b81cc5cb7436",
