@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hautvfami/reading-portfolio/asset/covers/header_girl.webp" alt="EpubTidy Girl" width="100%">
+  <img src="https://raw.githubusercontent.com/hautvfami/reading/main/header_girl.webp" alt="EpubTidy Girl" width="100%">
 </p>
 
 # 📚 Hau Tran's Reading Portfolio

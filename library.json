@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "owner": "hautvfami",
-  "generatedAt": "2026-10-15T13:24:48.680280Z",
+  "generatedAt": "2026-10-15T13:57:36.504161Z",
   "totalBooks": 13,
   "books": [
     {
@@ -172,12 +172,12 @@
       "description": "\"The Old Man and the Sea\" is a novel by Ernest Hemingway and published in 1952. It tells the story of Santiago, an aged, experienced but unlucky Cuban fisherman. The story details his epic struggle to catch a giant marlin far out in the Gulf Stream. The book studies perseverance and the battles between humanity and nature. It explores honor, pride, and the cycle of life and death. The Old Man and the Sea was a critical and commercial success, winning the Pulitzer Prize for Fiction in 1953 and helping Hemingway win the Nobel Prize in Literature in 1954.",
       "publishedAt": "2014-06-13T07:00:00.000",
       "chapterCount": 1,
-      "readingProgress": 0.1409455842997324,
+      "readingProgress": 0.13954611298889424,
       "tags": [
         "fiction"
       ],
       "coverImage": "covers/bf5828da-7249-4c10-a8db-b81cc5cb7436.jpg",
-      "lastReadAt": "2026-10-10T18:28:30.000"
+      "lastReadAt": "2026-10-15T20:47:35.000"
     },
     {
       "id": "0d47075c-8232-473b-9aa2-606f69c27960",
