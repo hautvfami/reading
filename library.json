@@ -1,9 +1,24 @@
 {
   "version": "1.0",
   "owner": "hautvfami",
-  "generatedAt": "2026-10-15T06:33:09.297891Z",
-  "totalBooks": 8,
+  "generatedAt": "2026-10-15T06:33:33.234830Z",
+  "totalBooks": 9,
   "books": [
+    {
+      "id": "3745b264-2d3b-4951-b572-c5d6666b5a7f",
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "publisher": "Standard Ebooks",
+      "languageCode": "en-GB",
+      "description": "A woman is hired by the mysterious master of Thornfield Hall as a governess for his young ward.",
+      "publishedAt": "2019-11-10T07:00:00.000",
+      "chapterCount": 46,
+      "readingProgress": 0.0,
+      "tags": [
+        "romance"
+      ],
+      "coverImage": "covers/3745b264-2d3b-4951-b572-c5d6666b5a7f.jpg"
+    },
     {
       "id": "1ab6ac04-b53a-488a-95dc-92947def189a",
       "title": "The Odyssey",
