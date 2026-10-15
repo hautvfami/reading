@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "owner": "hautvfami",
-  "generatedAt": "2026-10-15T11:49:37.305309Z",
-  "totalBooks": 12,
+  "generatedAt": "2026-10-15T12:42:26.081952Z",
+  "totalBooks": 13,
   "books": [
     {
       "id": "3745b264-2d3b-4951-b572-c5d6666b5a7f",
@@ -94,6 +94,21 @@
         "history"
       ],
       "coverImage": "covers/1c10c22b-845e-4c5a-83b5-3966897e6e19.jpg"
+    },
+    {
+      "id": "84a05d62-b769-4b0d-a55d-4802602f1a3d",
+      "title": "Alice in Wonderland",
+      "author": "Lewis Carroll",
+      "publisher": "Standard Ebooks",
+      "languageCode": "en-GB",
+      "description": "A young girl follows a white rabbit into a strange land of poetry, humor, and whimsy.",
+      "publishedAt": "2014-05-25T07:00:00.000",
+      "chapterCount": 20,
+      "readingProgress": 0.0,
+      "tags": [
+        "fantasy"
+      ],
+      "coverImage": "covers/84a05d62-b769-4b0d-a55d-4802602f1a3d.jpg"
     },
     {
       "id": "e6a69518-17fa-46be-8076-6ca446255d76",
