@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "owner": "hautvfami",
-  "generatedAt": "2026-10-15T14:08:54.800970Z",
-  "totalBooks": 12,
+  "generatedAt": "2026-10-15T14:10:29.517626Z",
+  "totalBooks": 13,
   "books": [
     {
       "id": "3745b264-2d3b-4951-b572-c5d6666b5a7f",
@@ -194,6 +194,20 @@
         "fiction"
       ],
       "coverImage": "covers/0d47075c-8232-473b-9aa2-606f69c27960.jpg"
+    },
+    {
+      "id": "c019d8cb-7f88-42b9-91d9-83d3217d2c49",
+      "title": "Mình Ta Thành Tựu Tu Tiên Gia Tộc",
+      "author": "Hảo Khán Đích Hạnh Thụ",
+      "publisher": "DTV EBOOK",
+      "languageCode": "vi",
+      "publishedAt": "2026-07-24T07:00:00.000",
+      "chapterCount": 875,
+      "readingProgress": 0.0,
+      "tags": [
+        "history"
+      ],
+      "coverImage": "covers/c019d8cb-7f88-42b9-91d9-83d3217d2c49.jpg"
     }
   ]
 }
