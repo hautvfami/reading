@@ -1,9 +1,24 @@
 {
   "version": "1.0",
   "owner": "hautvfami",
-  "generatedAt": "2026-10-15T06:32:27.275616Z",
-  "totalBooks": 7,
+  "generatedAt": "2026-10-15T06:33:09.297891Z",
+  "totalBooks": 8,
   "books": [
+    {
+      "id": "1ab6ac04-b53a-488a-95dc-92947def189a",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "publisher": "Standard Ebooks",
+      "languageCode": "en-US",
+      "description": "An epic poem following a Greek hero trying to return home after the Trojan war.",
+      "publishedAt": "2020-02-08T07:00:00.000",
+      "chapterCount": 30,
+      "readingProgress": 0.0,
+      "tags": [
+        "romance"
+      ],
+      "coverImage": "covers/1ab6ac04-b53a-488a-95dc-92947def189a.jpg"
+    },
     {
       "id": "60579386-c7e5-400f-a6db-5e1b46aa8c0f",
       "title": "Phát Minh Cuối Cùng",
